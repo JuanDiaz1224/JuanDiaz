@@ -7,7 +7,8 @@
 | Juan Diaz | @JuanDiaz1224 | Coordinador |
 
 ## Laboratorio 1 — Estado: COMPLETADO
-
+### URL del Codespace
+https://cautious-space-funicular-wvrgqp7w5x6gc945-8000.app.github.dev/A
 ### Endpoints disponibles
 | Endpoint | Metodo | Descripcion |
 |----------|--------|-------------|

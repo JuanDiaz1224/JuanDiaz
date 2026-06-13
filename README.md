@@ -8,7 +8,7 @@
 
 ## Laboratorio 1 — Estado: COMPLETADO
 ### URL del Codespace
-https://cautious-space-funicular-wvrgqp7w5x6gc945-8000.app.github.dev/A
+https://cautious-space-funicular-wvrgqp7w5x6gc945-8001.app.github.dev/A
 ### Endpoints disponibles
 | Endpoint | Metodo | Descripcion |
 |----------|--------|-------------|
@@ -34,7 +34,7 @@ uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 Demostrar hardening de API mediante cabeceras de seguridad HTTP y prevencion de SQL Injection usando consultas parametrizadas.
 
 ### URL del Codespace
-https://cautious-space-funicular-wvrgqp7w5x6gc945-8000.app.github.dev
+https://cautious-space-funicular-wvrgqp7w5x6gc945-8001.app.github.dev
 
 ### Endpoints disponibles
 

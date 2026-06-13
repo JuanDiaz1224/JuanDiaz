@@ -22,7 +22,7 @@ https://cautious-space-funicular-wvrgqp7w5x6gc945-8001.app.github.dev/A
 ## Como ejecutar
 ```bash
 pip install -r requirements.txt
-uvicorn main:app --host 0.0.0.0 --port 8000 --reload
+uvicorn main:app --host 0.0.0.0 --port 8001 --reload
 ```
 
 
@@ -58,4 +58,4 @@ https://cautious-space-funicular-wvrgqp7w5x6gc945-8001.app.github.dev
 ### Como ejecutar
 cd lab2-hardening-sqli
 pip install -r requirements.txt
-uvicorn main:app --host 0.0.0.0 --port 8000
+uvicorn main:app --host 0.0.0.0 --port 8001

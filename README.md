@@ -62,6 +62,8 @@ uvicorn main:app --host 0.0.0.0 --port 8001
 
 ---
 ## Laboratorio 3 — Estado: COMPLETADO
+### URL del Codespace
+https://cautious-space-funicular-wvrgqp7w5x6gc945-8000.app.github.dev
 ### Objetivo
 Implementar automatización completa con scripts Bash y Python, observabilidad mediante health checks, y empaquetado seguro con Docker para la API FinTech Nova.
 
